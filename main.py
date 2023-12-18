@@ -1,5 +1,4 @@
-from funcs import sum_number
-from funcs import dif_number
+from funcs import *
 
 sum_number(5, 2)
 
